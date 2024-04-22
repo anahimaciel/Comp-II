@@ -5,9 +5,13 @@ https://introcs.cs.princeton.edu/java/23recursion/
 Repetimos aqui rapidamente a definição central nesse exercício. Seja N um inteiro positivo. Uma partição de N é uma forma de escrever N como uma soma de inteiros positivos. Por exemplo, N = 4 admite as partições
 
 4
+
 3 + 1
+
 2 + 2
+
 2 + 1 + 1
+
 1 + 1 + 1 + 1
 
 Seja p(N) o número de partições de N. Temos p(4) = 5. Note que, aqui, a ordem das parcelas não é considerada relevante, de forma que consideramos as partições 1 + 2 + 1 e 2 + 1 + 1 de 4 como sendo a mesma partição.
