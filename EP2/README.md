@@ -1,3 +1,5 @@
+# Comparing difference between lines
+
 Estude o Web Exercise 51 (Unix diff) de IntroCS, localizado no link:
 http://introcs.cs.princeton.edu/java/23recursion/
 
