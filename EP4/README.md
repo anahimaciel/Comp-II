@@ -1,4 +1,4 @@
-# Implement Queue and Stack
+# Implementing Queues and Stacks
 
 Você deve entregar as 2 seguintes classes, Stack e Queue, todas
 implementadas utilizando vetores, para armazenar somente Strings, cuja
