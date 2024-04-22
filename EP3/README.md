@@ -1,4 +1,4 @@
-# Implement Mergesort
+# Implementing Mergesort
 
 Você deve implementar o algoritmo Mergesort (para vetor de strings) seguindo a implementação vista em sala. Você não deve olhar nenhuma implementação na internet, uma vez que a ideia desse exercício é você trabalhar para superar os detalhes técnicos da implementação desse algoritmo, elaborando toda a implementação, desde o planejamento dos métodos, até os detalhes dos índices etc.
 
