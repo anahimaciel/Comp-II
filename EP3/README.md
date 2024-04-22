@@ -1,3 +1,5 @@
+# Implement Mergesort
+
 Você deve implementar o algoritmo Mergesort (para vetor de strings) seguindo a implementação vista em sala. Você não deve olhar nenhuma implementação na internet, uma vez que a ideia desse exercício é você trabalhar para superar os detalhes técnicos da implementação desse algoritmo, elaborando toda a implementação, desde o planejamento dos métodos, até os detalhes dos índices etc.
 
 Você deve entregar um arquivo chamado Merge.java até o dia 04/05 no máximo até às 14h.
